@@ -1,4 +1,4 @@
-## Hi there, 👋 My name is Liana and I am currently studying a Master of Science in Computer Science and Data Analytics with Keele University
+## Hi there, 👋 My name is Liana and I am currently completing a full stack bootcamp
 
 ### 🔭 I’m currently working on my portfolio
 ### 🌱 I’m currently learning Python and SQL
