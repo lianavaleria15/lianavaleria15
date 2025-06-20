@@ -10,6 +10,7 @@ I'm a junior web developer currently training with ITonlinelearning. I'm passion
   
 ## 🤝 Let’s Connect!
 - 📫 Reach me at: liana.valeria15@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/liana-valeria-laurentiu)
-Thanks for visiting my GitHub!
+- 💼 LinkedIn: [liana-valeria-laurentiu](https://www.linkedin.com/in/liana-valeria-laurentiu)
+
+## Thanks for visiting my GitHub!
 
