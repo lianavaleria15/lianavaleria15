@@ -1,7 +1,16 @@
-## Hi there, 👋 My name is Liana and I am currently completing a full stack bootcamp
+# 👋 Hi, I’m [Your Name]!
 
-### 🔭 I’m currently working on my portfolio
-### 🌱 I’m currently learning Python and SQL
-### 📫 How to reach me: liana.valeria15@gmail.com
-### ⚡ Fun fact: I don't have a sense of smell
+I'm a junior web developer currently training with ITonlinelearning. I'm passionate about building clean, responsive, and user-friendly websites. So far, I’ve been learning HTML, CSS, and JavaScript—and I’m excited to keep growing my skills in React, Git, and Python next.
+
+## 🔧 Tech I'm Learning
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
+- 
+## 🤝 Let’s Connect!
+- 📫 Reach me at: liana.valeria15@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/liana-valeria-laurentiu/
+
+Thanks for visiting my GitHub!
 
